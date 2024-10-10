@@ -32,6 +32,6 @@ Contributors: Thank you to all the developers and testers who have contributed t
 ## How to Get Help
 If you're having trouble installing or using SolaceOS, consider the following options for help:
 
-Check the Issues Tab: Someone may have already asked the same question you're facing. Check Issues.
-Open a New Issue: If your problem hasn't been addressed, feel free to open a new issue. Provide detailed information about your problem, including system specs and error logs.
-Join the Community: We have an open community channel on Slack or Discord, where you can ask questions, share knowledge, and discuss ideas with other SolaceOS users.
+**Check the Issues Tab**: Someone may have already asked the same question you're facing. Check Issues.
+**Open a New Issue**: If your problem hasn't been addressed, feel free to open a new issue. Provide detailed information about your problem, including system specs and error logs.
+**Join the Community**: We have an open community channel on Slack or Discord, where you can ask questions, share knowledge, and discuss ideas with other SolaceOS users.
