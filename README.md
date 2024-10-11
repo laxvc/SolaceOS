@@ -25,4 +25,16 @@ To install **SolaceOS**, follow these steps:
    ```bash
    cd SolaceOS
    make build
+## Acknowledgments
 
+We would like to extend our thanks to the following individuals and projects that contributed to **SolaceOS**:
+
+- **[ToaruOS](https://github.com/klange/toaruos)**: For providing the foundational architecture.
+- **The Open Source Community**: Your contributions, feedback, and passion have made this project possible.
+- **Contributors**: Thank you to all the developers and testers who have contributed to this project.
+## How to Get Help
+If you're having trouble installing or using SolaceOS, consider the following options for help:
+
+Check the Issues Tab: Search existing issues for potential solutions.
+Open a New Issue: If your problem hasn't been addressed, feel free to open a new issue. Provide detailed information, including system specs and error logs.
+Join the Community: We have an open community channel on Slack or Discord, where you can ask questions, share knowledge, and discuss ideas with other SolaceOS users.
